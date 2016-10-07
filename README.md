@@ -217,14 +217,14 @@ I wrote this short article about it: [Important: Pick One Language for the Googl
 
 You can use a language you are comfortable in to do the coding part of the interview, but for Google, these are solid choices:
 
-- C++
+~~- C++~~
 - Java
 - Python
 
-You could also use these, but read around first. There may be caveats:
+~~You could also use these, but read around first. There may be caveats:~~
 
-- JavaScript
-- Ruby
+~~- JavaScript
+- Ruby~~
 
 You need to be very comfortable in the language, and be knowledgeable. 
 
